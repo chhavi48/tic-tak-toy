@@ -3,6 +3,8 @@
 <h1>finally Done 😍😍😎</h1>
 <img src="https://user-images.githubusercontent.com/77965216/162807720-eab5d195-d2c4-4ec5-bc86-bd6d09a53b6c.png"/>
 
+<h1>lIFECYCLE OF State</h1>
+<img src="https://user-images.githubusercontent.com/77965216/162920168-27249cca-dba8-4c58-a00b-b022630c3580.png"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
